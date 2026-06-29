@@ -1,0 +1,16 @@
+PyQt5==5.15.9
+PyQt5-sip
+requests==2.31.0
+Flask==2.3.3
+Werkzeug==2.3.7
+PyMySQL==1.1.0
+bcrypt==4.1.2
+supabase
+cryptography>=42.0.0
+PyMuPDF>=1.23.0
+python-docx>=1.1.0
+reportlab>=4.1.0
+docx2pdf>=0.1.8
+python-bidi
+arabic-reshaper
+pywin32
